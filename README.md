@@ -1,6 +1,6 @@
 ![I am a Android Developer.](https://github.com/sohag221/sohag221/assets/110124971/1bab980c-30fd-43fd-88a9-1892ecc3c5fe)
-######## Hi there 👋, I'm Sohag.
-###### I am a Android Developer.
+# Hi there 👋, I'm Sohag.
+## I am a Android Developer.
 
 Currently I am studing Bsc in CSE at Daffodil International University and  working with Android development with Kotlin as well.
 
