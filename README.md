@@ -1,4 +1,3 @@
-
 # Hi there 👋, I'm Sohag.
 ### Currently pursuing a Bachelor of Computer Science (BCS) in Computer Science and Engineering (CSE) at Daffodil International University. As an enthusiastic and passionate Android developer, I love crafting innovative and efficient mobile applications. I'm always eager to learn new technologies and improve my skills.
 Skills: Java / Kotlin/ Python
