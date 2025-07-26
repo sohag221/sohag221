@@ -7,6 +7,5 @@ Skills: Java / Kotlin/ Python
 - 👯 I’m open to collaborating with teams on exciting Android projects.
 - 💬 Feel free to ask me anything about Android development.
 - ⚡ Fun fact: I enjoy a good conversation and a bit of friendly gossip! 
-- 📫 How to reach me: https://www.linkedin.com/in/md-sohag-627229247/ 
-
+- 📫 **How to reach me**: [LinkedIn Profile](https://www.linkedin.com/in/md-sohag-627229247/)
 
